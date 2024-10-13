@@ -1,0 +1,27 @@
+# Django va Django bilan bog'liq kutubxonalar
+python-dotenv==1.0.1
+phonenumbers==8.13.46
+stripe==10.12.0
+Django==5.0.7
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+django-modeltranslation==0.19.6
+django-phonenumber-field==8.0.0
+firebase-admin
+
+# Boshqa foydali kutubxonalar
+SQLAlchemy==2.0.34
+alembic==1.13.2
+bcrypt==4.2.0
+cryptography==43.0.0
+PyJWT==2.8.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+pillow==10.4.0
+debugpy==1.8.5
+python-decouple
+pyrebase4
+firebase-admin
+django-cors-headers
+whitenoise
+drf-yasg
