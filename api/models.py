@@ -23,6 +23,7 @@ class User(AbstractUser):
     age = models.IntegerField(null=False, blank=False,default=0)
     width = models.IntegerField(null=False, blank=False,default=0)
     weight = models.IntegerField(null=False, blank=False,default=0)
+    last_login = models.DateTimeField(null=True, blank=True)
 
     
     def __str__(self):
